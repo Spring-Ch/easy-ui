@@ -4,9 +4,9 @@
         <div class="easy-modal-wrapper" @click="onClickCloseMask">
             <div class="easy-modal">
                 <div class="easy-modal-content">
-                        <Button class="easy-modal-close">
+                        <div class="easy-modal-close">
                             <span class="easy-modal-close-x" @click="modalClosed">×</span>
-                        </Button>
+                        </div>
                         <header class="easy-modal-header">
                             <slot name="header">标题</slot>
                         </header>

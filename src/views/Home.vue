@@ -5,7 +5,7 @@
             <h1 class="name">极简UI</h1>
             <h2 class="introduce">一个简简单单的UI框架</h2>
             <p class="actions">
-                <a href="#">GitHub</a>
+                <a href="https://github.com/Spring-Ch/easy-ui.git">GitHub</a>
                <router-link to="/doc">开始</router-link>
             </p>
         </div>

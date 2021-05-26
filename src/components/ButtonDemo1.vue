@@ -11,7 +11,7 @@
 </template>
 
 <script lang="ts">
-import Button from '../libs/Button.vue'
+import { Button } from '../libs/index'
 
 export default {
     components : { Button },

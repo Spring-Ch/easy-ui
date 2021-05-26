@@ -120,7 +120,7 @@ export default {
         width: 14px;
         height: 14px;
         margin-right: 7px;
-        border-radius: 7px; 
+        border-radius: 50%; 
         border-color:  #009688 #009688 #009688 transparent;
         border-style: solid;
         border-width: 2px;

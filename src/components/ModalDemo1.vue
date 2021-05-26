@@ -11,9 +11,9 @@
 </template>
 
 <script lang="ts">
-import Modal from '../libs/Modal.vue'
-import Button from '../libs/Button.vue'
-import {ref} from 'vue'
+import { Button } from '../libs/index'
+import { Modal } from '../libs/index'
+import { ref } from 'vue'
 
 export default {
     components : { Modal, Button },
